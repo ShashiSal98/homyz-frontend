@@ -5,11 +5,28 @@ Frontend for the Homyz Real Estate Web App built with React. Allows users to bro
 
 ## Features
 
-- Browse featured and latest property listings
-- Search properties by location, price, and other filters
-- View detailed property information and images
-- Responsive design for desktop and mobile
-- Easy navigation and user-friendly interface
+- *Property Listings*: View a wide range of property listings with detailed information, including descriptions, prices, addresses, and more.
+
+- *Advanced Search*: Customize your property search by type (rent/sale), amenities, sorting options, and more.
+
+- *User Profiles*: Registered users can create and manage their profiles with profile pictures and listings also.
+
+- *Authentication*: Secure user registration and login functionality with Google OAuth.
+
+- *Book your Visit*: you can also select the date at which you want to visit the site.
+
+- *Maps and Location Information*: Integrating maps and providing location information is crucial for real estate and hospitality websites. Interactive maps can show the location of properties, nearby amenities (e.g., schools, restaurants, hospitals), transportation options, and other points of interest. This helps users understand the neighborhood and make informed decisions.
+
+- *Mark as Favourites*: you can also mark as favourite the property which you like.
+
+- *Property Details and Descriptions*: Each property listing should have comprehensive details and descriptions, including property features, room dimensions, amenities, nearby attractions, and any unique selling points. High-quality images and virtual tours can provide a more immersive experience for users.
+  
+![properties](https://github.com/user-attachments/assets/926f230a-20a9-47f5-9187-fa67a97f1a37)
+
+![property view](https://github.com/user-attachments/assets/a885108c-2c06-4575-a660-234bf3cc5534)
+
+![contact](https://github.com/user-attachments/assets/ce338e45-d51a-4748-a2ad-5cc5ae5a07df)
+
 
 ## Tech Stack
 
